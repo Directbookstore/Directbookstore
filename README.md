@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Directbookstore ibikunle Samuel by name
+- I'm interested in frontend and backend Nextjs projects
+- I'm interested in Developing AI
 - 👀 I’m interested in Data Analyst 
 - 🌱 I’m using SQl server, Microsoft,powerBI,Tableau_visualization, Python using pandas 
 - 💞️ I’m looking to collaborate on any project on Data Analyst and machine learning 
