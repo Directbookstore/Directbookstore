@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Directbookstore ibikunle Samuel by name
-- I'm interested in frontend and backend Nextjs projects
-- I'm interested in Developing AI
-- 👀 I’m interested in Data Analyst 
+- 👋 Hi, I’m @CodeMentor ibikunle Samuel by name
+- I'm interested in AI and ML  projects
+- I'm interested in Developing AI model into the cloud using AWS sagemaker and python SDK at Azure 
+- 👀 I’m interested in Data Science, NLP, LLMOP and Agentic Ai 
 - 🌱 I’m using MySQL, Microsoft,powerBI,Tableau_visualization, Python using pandas 
-- 💞️ I’m looking to collaborate on any project on Data Analyst and machine learning 
+- 💞️ I’m looking to collaborate on any project on machine learning 
 - 📫 How to reach me on info@directbookstore.com or directbookstoreltd@gmail.com or 2347032055163 on WhatsApp 
 
 <!---
